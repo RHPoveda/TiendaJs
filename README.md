@@ -1,4 +1,5 @@
 # Simulación Tienda JS
+#### :pushpin: [**Ve Página Web**](https://rhpoveda.github.io/TiendaJs/)
 
 ## Proyecto 02 - Creado como parte del entranamiento recibido durante el curso de JavaScript
 
